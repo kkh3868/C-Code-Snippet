@@ -1,0 +1,10 @@
+D:\CSharp개발\AsynchronousProject\AsynchronousProject\bin\Debug\AsynchronousProject.exe.config
+D:\CSharp개발\AsynchronousProject\AsynchronousProject\bin\Debug\AsynchronousProject.exe
+D:\CSharp개발\AsynchronousProject\AsynchronousProject\bin\Debug\AsynchronousProject.pdb
+D:\CSharp개발\AsynchronousProject\AsynchronousProject\obj\Debug\AsynchronousProject.csproj.AssemblyReference.cache
+D:\CSharp개발\AsynchronousProject\AsynchronousProject\obj\Debug\AsynchronousProject.Form1.resources
+D:\CSharp개발\AsynchronousProject\AsynchronousProject\obj\Debug\AsynchronousProject.Properties.Resources.resources
+D:\CSharp개발\AsynchronousProject\AsynchronousProject\obj\Debug\AsynchronousProject.csproj.GenerateResource.cache
+D:\CSharp개발\AsynchronousProject\AsynchronousProject\obj\Debug\AsynchronousProject.csproj.CoreCompileInputs.cache
+D:\CSharp개발\AsynchronousProject\AsynchronousProject\obj\Debug\AsynchronousProject.exe
+D:\CSharp개발\AsynchronousProject\AsynchronousProject\obj\Debug\AsynchronousProject.pdb
